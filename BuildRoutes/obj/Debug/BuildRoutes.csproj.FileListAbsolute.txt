@@ -1,0 +1,7 @@
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\bin\Debug\BuildRoutes.exe.config
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\bin\Debug\BuildRoutes.exe
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\bin\Debug\BuildRoutes.pdb
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\obj\Debug\BuildRoutes.csprojAssemblyReference.cache
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\obj\Debug\BuildRoutes.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\obj\Debug\BuildRoutes.exe
+C:\Users\L\source\repos\BuildRoutes\BuildRoutes\obj\Debug\BuildRoutes.pdb

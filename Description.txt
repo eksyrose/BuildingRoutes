@@ -1,0 +1,17 @@
+How it works now - program searching for the "rightest" part (ending point), than adding parts to the left (like a domino).
+
+Time for n paths:
+
+Worst
+It takes n time to find the rightest part and n-1 for every next left pair, so it's n! time.
+
+Best (all sorted yet)
+It takes n time to find the rightest part and 1 to every next left pair, so it's 2n-1 time.
+
+Average
+??? n!/2
+
+Optimisation:
+
+Work parallel. Find the rightest and the leftest parts and add pairs to right and to left simultaneously. 
+So it will be two times faster than now. 
